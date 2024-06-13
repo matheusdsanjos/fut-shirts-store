@@ -40,7 +40,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 <div align="center">
  <img src="" />
  <p>
- <a href="https://c4model.com/#ComponentDiagram">
+ <a href="https://c4model.com/#ComponentDiagram">Documentação base</a>
 </div>
 
 * ### Diagrama de código
