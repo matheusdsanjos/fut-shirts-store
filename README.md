@@ -17,35 +17,33 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 <section id="Diagramas">
  
 ## 📈Diagramas C4
-* ### [Diagrama de contexto]
+<a href="https://c4model.com/#SystemContextDiagram">* ### Diagrama de contexto</a>
  
 <div align="center">
 <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-contexto.png" />
 </div>
 
-* ### [Diagrama de container]
+<a href="https://c4model.com/#ContainerDiagram">* ### [Diagrama de container]</a>
   
 <div align="center">
 <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-container.png" />
 </div>
 
-* ### [Diagrama de componente]
+<a href="https://c4model.com/#ComponentDiagram">* ### [Diagrama de componente]</a>
  
 <div align="center">
 <img src="" />
 </div>
 
-## Diagramas Design Patterns
-
-### Diagrama do Padrão Command
+<a href="https://c4model.com/#CodeDiagram">* ### [Diagrama de código]</a>
+ 
 <div align="center">
-<img src="" />
+<img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-codigo.png" />
 </div>
 
 </section>
 
 <section id="tecnologias">
-</section>
 
 ## :desktop_computer: Tecnologias utilizadas
 
@@ -53,12 +51,14 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 - React.js
 - Node.js
 - MongoDB
+  
+</section>
 
 <section id="autores">
-</section>  
 
 ## :family_man_man_boy: Autores
 
 - Enzo Bizinoto - CP3020592
 - Gabriel Mesquita da Silva Barreiro - CP3020355
 - Matheus dos Anjos de Oliveira - CP3020762
+</section>
