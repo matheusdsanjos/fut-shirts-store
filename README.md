@@ -29,7 +29,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-container.png" />
 </div>
 
-* ### [Diagrama de componentes - Jogo]
+* ### [Diagrama de componente]
  
 <div align="center">
 <img src="" />
