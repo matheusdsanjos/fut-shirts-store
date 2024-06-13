@@ -17,29 +17,33 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 <section id="Diagramas">
  
 ## 📈Diagramas C4
-<a href="https://c4model.com/#SystemContextDiagram">* ### Diagrama de contexto</a>
+* ### Diagrama de contexto
  
 <div align="center">
 <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-contexto.png" />
 </div>
+<a href="https://c4model.com/#SystemContextDiagram">
 
-<a href="https://c4model.com/#ContainerDiagram">* ### [Diagrama de container]</a>
+* ### Diagrama de container
   
 <div align="center">
 <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-container.png" />
 </div>
+<a href="https://c4model.com/#ContainerDiagram">Documentação base</a>
 
-<a href="https://c4model.com/#ComponentDiagram">* ### [Diagrama de componente]</a>
+* ### Diagrama de componente
  
 <div align="center">
 <img src="" />
 </div>
+<a href="https://c4model.com/#ComponentDiagram">
 
-<a href="https://c4model.com/#CodeDiagram">* ### [Diagrama de código]</a>
+* ### Diagrama de código
  
 <div align="center">
 <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-codigo.png" />
 </div>
+<a href="https://c4model.com/#CodeDiagram">Documentação base</a>
 
 </section>
 
