@@ -5,7 +5,7 @@
  <a href="#autores">Autores</a>
 </p>
 
-# Jogo Futebol de Cabeção
+# Fut-Shirt Store
 <section id="Descrição">
 
 ## :soccer: Descrição:
