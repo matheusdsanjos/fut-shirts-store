@@ -20,30 +20,32 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 * ### Diagrama de contexto
  
 <div align="center">
-<img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-contexto.png" />
+ <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-contexto.png" />
+ <a href="https://c4model.com/#SystemContextDiagram">Documentação base</a>
 </div>
-<a href="https://c4model.com/#SystemContextDiagram">
+
 
 * ### Diagrama de container
   
 <div align="center">
-<img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-container.png" />
+ <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-container.png" />
+ <a href="https://c4model.com/#ContainerDiagram">
 </div>
-<a href="https://c4model.com/#ContainerDiagram">Documentação base</a>
+
 
 * ### Diagrama de componente
  
 <div align="center">
-<img src="" />
+ <img src="" />
+ <a href="https://c4model.com/#ComponentDiagram">
 </div>
-<a href="https://c4model.com/#ComponentDiagram">
 
 * ### Diagrama de código
  
 <div align="center">
-<img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-codigo.png" />
+ <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-codigo.png" />
+ <a href="https://c4model.com/#CodeDiagram">Documentação base</a>
 </div>
-<a href="https://c4model.com/#CodeDiagram">Documentação base</a>
 
 </section>
 
