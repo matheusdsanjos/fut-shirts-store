@@ -16,7 +16,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 
 <section id="Diagramas">
  
-## 📈Diagramas C4
+## 📈 Diagramas C4
 * ### Diagrama de contexto
  
 <div align="center">
