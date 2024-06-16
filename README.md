@@ -38,7 +38,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 * ### Diagrama de componente
  
 <div align="center">
- <img src="" />
+ <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-componente.png" />
  <p>
  <a href="https://c4model.com/#ComponentDiagram">Documentação base</a>
 </div>
