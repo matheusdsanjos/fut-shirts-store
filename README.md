@@ -16,6 +16,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 </section>
 
 <section id="Diagramas">
+ 
 ## 📈 Diagramas C4
 * ### Diagrama de contexto
  
@@ -53,6 +54,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 </section>
 
 <section id="Padrões">
+ 
 ## 📈 Padrões
 * ### Padrão Arquitetural (MVC)
  
@@ -70,6 +72,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 </section>
 
 <section id="tecnologias">
+ 
 ## :desktop_computer: Tecnologias utilizadas
 
 - JavaScript
@@ -79,6 +82,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 </section>
 
 <section id="Referências">
+ 
 ## 📖: Referências
 
 - [C4 Model](https://c4model.com/)
@@ -86,6 +90,7 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
 </section>
 
 <section id="autores">
+ 
 ## :family_man_man_boy: Autores
 
 - Enzo Bizinoto - CP3020592
