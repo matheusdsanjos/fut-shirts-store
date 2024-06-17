@@ -1,6 +1,7 @@
 <p align="center">
  <a href="#Descrição">Descrição</a> |
  <a href="#Diagramas">Diagramas</a> |
+ <a href="#Padrões">Padrões</a> |
  <a href="#tecnologias">Tecnologias</a> |
  <a href="#autores">Autores</a>
 </p>
@@ -49,6 +50,25 @@ O objetivo deste projeto é desenvolver uma aplicação web de e-commerce especi
  <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/diagrama-de-codigo.png" />
  <p>
  <a href="https://c4model.com/#CodeDiagram">Documentação base</a>
+</div>
+
+</section>
+
+<section id="Padrões">
+ 
+## 📈 Padrões
+* ### Padrão Arquitetural (MVC)
+ 
+<div align="center">
+ <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/padrao-arquitetural-mvc.png" />
+ <p>
+</div>
+
+* ### Padrão de Persistência de Dados (DAO)
+ 
+<div align="center">
+ <img src="https://github.com/matheusdsanjos/fut-shirts-store/blob/main/documentos/padrao-de-persist%C3%AAncia-de-dados-dao.jpg" />
+ <p>
 </div>
 
 </section>
